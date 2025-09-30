@@ -1,0 +1,29 @@
+# ERIFY™ Image Spec 👑🔥
+
+This repository is a fork of the [OCI Image Format Specification](https://github.com/opencontainers/image-spec).  
+It is maintained and adapted for use in the **ERIFY App ecosystem**.
+
+---
+
+## 📌 Overview
+The **OCI Image Format** defines an open standard for container images.  
+This fork ensures compatibility with ERIFY Studio systems and provides space for extensions, experiments, and documentation aligned with our platform needs.
+
+---
+
+## 🚀 ERIFY Adaptations
+- Branded integration with **ERIFY-App** workflows  
+- Placeholder for future **OCI extensions** required by ERIFY infrastructure  
+- Documentation improvements for internal developer use  
+
+---
+
+## 🤝 Contributing
+This fork primarily serves ERIFY Studio needs.  
+If you wish to contribute upstream, please open a PR on the official [opencontainers/image-spec](https://github.com/opencontainers/image-spec).
+
+---
+
+## 📜 License
+This repository inherits licensing from the original OCI project.  
+© 2025 ERIFY Studio. All rights reserved.
